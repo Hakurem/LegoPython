@@ -1,6 +1,7 @@
 # LegoPython
 
-- This repository contains a project for test-oppkobling in ELE130 at UiS.
+- This repository contains a possible fix for the project folder test-oppkobling in ELE130 at UiS.
+- It was tested to work on kali linux.
 - Following requirements
   - color sensor connected to one of the ports 1-4
   - dc-motor at port A
